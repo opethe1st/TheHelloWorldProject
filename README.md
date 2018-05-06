@@ -25,12 +25,12 @@ node hello.js
 go run hello.py
 ```
 
-###Lisp
+### Lisp
 ```
 clisp hello.lisp
 ```
 
-###Java
+### Java
 ```
 javac hello.java
 java hello
